@@ -4,8 +4,12 @@ React
 
 ## New Packages used.
 
-"react-toastify": "^10.0.3",
+"react-toastify": "^10.0.3"
 "styled-components": "^6.1.8"
+
+## GIF
+
+![Project GIF](screenshots/project.gif)
 
 ## Screenshots
 
@@ -13,7 +17,3 @@ React
 ![Screenshot 2](screenshots/screenshot2.png)
 ![Screenshot 2](screenshots/screenshot3.png)
 ![Screenshot 2](screenshots/screenshot4.png)
-
-## GIF
-
-![Project GIF](screenshots/project.gif)
