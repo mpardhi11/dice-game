@@ -11932,7 +11932,7 @@ const m1 = ({ selectedNumber: e, setSelectedNumber: t }) => {
       children: [
         R.jsx("div", {
           className: "",
-          children: R.jsx("img", { src: "/dices.png", alt: "main dice image" }),
+          children: R.jsx("img", { src: "dices.png", alt: "main dice image" }),
         }),
         R.jsxs("div", {
           className: "main_heading",
