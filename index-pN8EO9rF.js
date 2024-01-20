@@ -11812,7 +11812,7 @@ const m1 = ({ selectedNumber: e, setSelectedNumber: t }) => {
           className: "dice",
           onClick: t,
           children: R.jsx("img", {
-            src: `/dice/dice_${e}.png`,
+            src: `dice/dice_${e}.png`,
             alt: `Dice ${e}`,
           }),
         }),
